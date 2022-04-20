@@ -1,0 +1,15 @@
+[user]
+	email=elizaveta.kudryavtseva@idp.zyfra.com
+	name=ElizavetaKudryavtsev
+[alias]
+	st = status
+	ci = commit
+	ga = git
+	tc = touch
+	ps = push
+	mg = merge
+	ck = checkout
+	br = branch
+	pl = pull
+	ft = fetch
+	lg = log
