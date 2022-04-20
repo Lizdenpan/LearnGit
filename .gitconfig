@@ -2,14 +2,14 @@
 	email=elizaveta.kudryavtseva@idp.zyfra.com
 	name=ElizavetaKudryavtsev
 [alias]
-	st = git status
-	ci = git commit -am
-	ga = git add
+	st = status
+	ci = commit
+	ga = add
 	tc = touch
-	ps = git push
-	mg = git merge
-	ck = git checkout
-	br = git branch
-	pl = git pull
-	ft = git fetch
-	lg = git log
+	ps = push
+	mg = merge
+	ck = checkout
+	br = branch
+	pl = pull
+	ft = fetch
+	lg = log
